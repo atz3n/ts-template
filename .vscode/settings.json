@@ -1,0 +1,5 @@
+{
+    "editor.autoIndent": "none",
+    "editor.tabSize": 4,
+    "editor.codeActionsOnSave": { "source.fixAll.eslint": true }
+}
